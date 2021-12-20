@@ -1,1 +1,1 @@
-# linear-regression
+# machine-learning
